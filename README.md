@@ -17,7 +17,7 @@ I'm **Elve**. I do things, code things, and game.
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](https://www.json.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](https://jupyter.org/)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=Got&logoColor=white)](https://go.dev/)
 [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](https://toml.io/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
 
